@@ -1,2 +1,2 @@
-print("Proud to be a Sumangalian")
-print("Proud to be a Sumangalian")
+print("Welcome to Git Desktop")
+print("Hello Github")
